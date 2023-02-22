@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RangelMarco
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Staart and Ampli
-- Staart
+- 🌱 I’m currently learning Ampli
   - Git e Github
+  - HTML5 and CSS3
   - Javascript
   - Python
 - Ampli - Data Sciences
